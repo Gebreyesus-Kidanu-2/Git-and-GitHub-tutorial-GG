@@ -1,1 +1,1 @@
-This is testing about Git and Github  stages.
+This is about Git and Github  stages.
